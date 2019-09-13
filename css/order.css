@@ -1,0 +1,27 @@
+.order {
+	width: 50%;
+	margin: 0px auto;
+	height: auto;
+	padding-bottom: 20px;
+	background: #fff;
+}
+.order h2 {
+	text-align: center;
+	color: #666;
+	font-weight: 100;
+}
+.order table td {
+	color: #666;
+	font-size: 12px;
+}
+.order th {
+	font-size: 13px;
+	font-family: arial;
+}
+.t {
+	border: none;
+}
+#harga-order {
+	color: #F915C6;
+	font-size: 30px;
+}
